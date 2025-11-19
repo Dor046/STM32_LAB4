@@ -1,0 +1,5 @@
+../Core/Src/fsm_automatic.c:15:6:update_led7seg	4	static
+../Core/Src/fsm_automatic.c:22:6:update_led_for_1s	8	static
+../Core/Src/fsm_automatic.c:33:6:led7_segRun	8	static
+../Core/Src/fsm_automatic.c:104:6:traffic_lightRun	8	static
+../Core/Src/fsm_automatic.c:177:6:fsm_automatic	8	static

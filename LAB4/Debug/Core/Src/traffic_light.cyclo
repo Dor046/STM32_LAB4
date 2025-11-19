@@ -1,0 +1,12 @@
+../Core/Src/traffic_light.c:10:6:RED_1	1
+../Core/Src/traffic_light.c:16:6:GREEN_1	1
+../Core/Src/traffic_light.c:22:6:YELLOW_1	1
+../Core/Src/traffic_light.c:28:6:RED_2	1
+../Core/Src/traffic_light.c:34:6:GREEN_2	1
+../Core/Src/traffic_light.c:40:6:YELLOW_2	1
+../Core/Src/traffic_light.c:47:6:blink_RED_1	2
+../Core/Src/traffic_light.c:56:6:blink_GREEN_1	2
+../Core/Src/traffic_light.c:65:6:blink_YELLOW_1	2
+../Core/Src/traffic_light.c:74:6:blink_RED_2	2
+../Core/Src/traffic_light.c:83:6:blink_GREEN_2	2
+../Core/Src/traffic_light.c:92:6:blink_YELLOW_2	2
